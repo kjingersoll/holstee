@@ -1,0 +1,91 @@
+
+body{
+   background: linear-gradient(#ffffff, #ffb3b3);
+   font-family: 'Anton', sans-serif;
+    text-align: center;
+    width: 750px;
+    margin: auto;
+}
+
+#field {
+    width: 750px;
+    background-color: #ffb3b3;
+    border-radius: 20px;
+    padding:15px;
+}
+
+div {
+    margin: 10px;
+}
+
+#life {
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 65px;
+}
+
+#love {
+    text-transform: uppercase;
+    color: white;
+    font-size:40px;
+}
+
+table{
+    border-radius: 28px;
+    border-width: 8px;
+    border-color: #ff8080;
+    border-style: dotted;
+    margin:auto;
+    font-size: 24px;
+}
+
+td {
+    font-family: 'Lexend Exa', sans-serif;
+}
+
+.if {
+    width: 48%;
+    text-align: right;
+}
+
+.arrow {
+    text-align: center;
+    width: 4%;
+    color: white;
+}
+
+.then {
+    width: 48%;
+    text-align:left;
+}
+
+#triple {
+    display: flex;
+    align-items: center;
+}
+
+#simple, #emotions, #eat {
+    background-color: #d98cb3;
+    border-radius: 10px;
+    font-family: 'Abril Fatface', cursive;
+    float:left;
+    width: 30%;
+    font-size:28px;
+}
+
+#chunk {
+    background-color: #ff8080;
+     border-radius: 10px;
+    clear: both;
+    font-size: 35px;
+    color:white;
+    font-family: 'Permanent Marker', cursive;
+    padding: 10px;
+}
+
+.gray{
+    color: dimgray;
+}
+
+#short {
+    font-size: 40px;
+}
